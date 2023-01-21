@@ -1,12 +1,11 @@
+#   Pre-work - *Introduction App*
 <p align="center">
-
-# Pre-work - Introduction App
 
 This is an iOS app that allows students to craft introduction messages.
 
-Submitted by: Avery Myart
+Submitted by: **Avery Myart**
 
-Time Spent: 3.5 hours in total
+Time Spent: **3.5** hours in total
 
 
 ## User Stories:

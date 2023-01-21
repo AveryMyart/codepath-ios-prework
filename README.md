@@ -1,3 +1,4 @@
+<p align="center">
 # Prework - Introduction App
 
 This is an iOS app that allows students to craft introduction messages.
@@ -27,3 +28,4 @@ The following **optional** Features were implemented:
 ## Walkthrough
 
 ![](https://github.com/AveryMyart/codepath-prework/blob/main/iOSApp.gif)
+</p>

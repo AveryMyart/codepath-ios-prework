@@ -1,6 +1,7 @@
 <p align="center">
 # Pre-work - Introduction App
-
+</p>
+<p align="center">
 This is an iOS app that allows students to craft introduction messages.
 
 Submitted by: Avery Myart

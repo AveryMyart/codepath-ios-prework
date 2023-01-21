@@ -28,7 +28,4 @@ The following **optional** Features were implemented:
 ## Walkthrough
 
 ![](https://github.com/AveryMyart/codepath-prework/blob/main/iOSApp.gif)
-
-
-##License
 </p>
